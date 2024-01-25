@@ -2,7 +2,7 @@
 Face Detector using OpenCV 3 and C++ and haar cascade classifier <br />
 
 1. face detection by a video:<br />
-  <img width="452" alt="Picture1" src="https://github.com/06-shuu/FaceDetection/assets/154021913/7e9607a7-8491-46e3-96c9-738fa19e6e30">
+  <img width="620" alt="Picture1" src="https://github.com/06-shuu/FaceDetection/assets/154021913/7e9607a7-8491-46e3-96c9-738fa19e6e30">
 <br />
 <br />
 2. face detection by an image:<br />
