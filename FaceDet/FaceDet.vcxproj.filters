@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\ImgFaceDetection.cpp">
+    <ClCompile Include="src\AnimeFaceDetection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
