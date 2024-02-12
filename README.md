@@ -2,7 +2,9 @@
 Face Detector using OpenCV 3 and C++
 
 1. face detection by a video:<br />
-  <img width="620" alt="Picture1" src="https://github.com/06-shuu/FaceDetection/assets/154021913/7e9607a7-8491-46e3-96c9-738fa19e6e30">
+
+![Untitled video - Made with Clipchamp (1)](https://github.com/06-shuu/FaceDetection/assets/154021913/2c21ca8a-ef62-4baa-98bc-acdc9798f660)
+
 <br />
 <br />
 2. face detection by an image:<br />
