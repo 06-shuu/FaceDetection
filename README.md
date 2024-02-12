@@ -6,7 +6,7 @@ Face Detector using OpenCV 3 and C++
 <br />
 <br />
 2. face detection by an image:<br />
-  <img width="5620" src="https://github.com/06-shuu/FaceDetection/assets/154021913/84f32b38-4188-4e11-9340-dba1ea432377">
+  <img width="620" src="https://github.com/06-shuu/FaceDetection/assets/154021913/84f32b38-4188-4e11-9340-dba1ea432377">
   <br />
   <br />
 Bonus: Anime face detection: <br />
